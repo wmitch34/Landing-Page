@@ -1,0 +1,76 @@
+body {
+	background: url('Images/seefromthesky.jpg') no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Noto Sans', sans-serif;
+	margin-top: 50px;
+}
+
+h1 {
+	color: black;
+	font-size: 40px;
+	font-weight: normal;
+	margin-bottom: 5px;
+	margin-top:  10px;
+}
+
+
+h2 {
+	color: black;
+	font-size: auto;
+	margin-top: -5px;
+	font-weight: normal;
+
+}
+
+.bio {
+	color: black;
+/*	height:50%;*/
+	
+}
+
+.me {
+	height: 300px;
+	border-radius:100%;
+	/*border-style: solid;
+	border-color: black;*/
+	/*margin-top: 20px;*/
+
+}
+
+.about{
+	width: 500px;
+	height: auto;
+	font-size: auto;
+	margin-left: auto;   
+	margin-right: auto;
+	text-align: center;
+	/*background: rgb(255, 255, 255, .1);*/
+	border-style: solid;
+	border-color: black;
+	border-width: 1.5px;
+	/*border-width: 100%*/
+	padding: 30px 30px 30px 30px;
+}
+
+.grey {
+	background-color: black;
+	height: 1px;
+	border:none;
+	width: 70%;
+	}
+
+.ext{
+	width: 570px;
+	height: auto;
+	margin-left: auto;   
+	margin-right: auto;
+	/*text-align: center;*/
+	background: rgb(255, 255, 255, .8);
+	/*border-style: solid;
+	border-color: black;*/
+	padding: 50px
+	/*border-width: 100%
+	padding: 15px 10px 15px 10px;*/
